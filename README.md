@@ -1,5 +1,4 @@
 # vscode_setting
-vscode_setting
 
 ## 1. indent-rainbow
 들여쓰기를 색상으로 표시해 준다.
