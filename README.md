@@ -25,3 +25,6 @@ cripts\Activate.ps1 파일을 로드할 수 없습니다.`
 
 > 해결 방법 : 
 `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
+
+## 유용한 단축키
+Shift + Alt + Down : 아래에 
